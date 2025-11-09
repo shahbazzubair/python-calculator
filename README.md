@@ -1,2 +1,21 @@
-# python-calculator
-🧮 Python Calculator  A simple and efficient calculator built using Python. It performs basic arithmetic operations like addition, subtraction, multiplication, and division directly from the command line. This project demonstrates core Python concepts such as functions, conditionals, loops, and error handling.
+# Python CLI Calculator
+
+A simple command-line calculator built with Python. This calculator supports addition, subtraction, multiplication, and division. It handles decimal numbers, prevents division by zero, and allows continuous calculations without restarting the program.
+
+---
+
+## Features
+
+- CLI-based interface
+- Addition, Subtraction, Multiplication, Division
+- Handles decimal numbers
+- Prevents division by zero
+- Continuous operation mode
+
+---
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/shahbazzubair/python-calculator
